@@ -3,4 +3,7 @@ public static void main(String args[]){
   System.out.println("Hello World");
   System.out.println("QIAO");
   System.out.println("QIAO");
+  System.out.println("Hello World");
+  System.out.println("QIAO");
+  System.out.println("QIAO");
 }
